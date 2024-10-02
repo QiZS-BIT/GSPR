@@ -1,7 +1,7 @@
 # GSPR
 This is the official implementation for our paper:<br>
 <br>
-[GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving](https://github.com/QiZS-BIT/GSPR)<br>
+[GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving](https://arxiv.org/abs/2410.00299)<br>
 <br>
 [Zhangshuo Qi<sup>†</sup>](https://github.com/QiZS-BIT), [Junyi Ma<sup>†</sup>](https://github.com/BIT-MJY), [Jingyi Xu](https://github.com/BIT-XJY),
 [Zijie Zhou](https://github.com/ZhouZijie77), [Luqi Cheng](https://github.com/ChengLuqi), [Guangming Xiong<sup>*</sup><be>](https://ieeexplore.ieee.org/author/37286205000)
@@ -14,7 +14,7 @@ for query-database matching.<br>
 @article{qi2024gspr,
   title={GSPR: Multimodal Place Recognition using 3D Gaussian Splatting for Autonomous Driving},
   author={Qi, Zhangshuo and Ma, Junyi and Xu, Jingyi and Zhou, Zijie and Cheng, Luqi and Xiong, Guangming},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2410.00299},
   year={2024}
 }
 ```
