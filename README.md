@@ -3,8 +3,8 @@ This repository is the official implementation of our paper accepted by IEEE IRO
 
 **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
 
-[Zhangshuo Qi]<sup>†</sup>(https://github.com/QiZS-BIT), [Junyi Ma]<sup>†</sup>(https://github.com/BIT-MJY), [Jingyi Xu](https://github.com/BIT-XJY),
-[Zijie Zhou](https://github.com/ZhouZijie77), [Luqi Cheng](https://github.com/ChengLuqi), [Guangming Xiong]<sup>*</sup>(https://ieeexplore.ieee.org/author/37286205000)
+[Zhangshuo Qi](https://github.com/QiZS-BIT)<sup>†</sup>, [Junyi Ma](https://github.com/BIT-MJY)<sup>†</sup>, [Jingyi Xu](https://github.com/BIT-XJY),
+[Zijie Zhou](https://github.com/ZhouZijie77), [Luqi Cheng](https://github.com/ChengLuqi), [Guangming Xiong](https://ieeexplore.ieee.org/author/37286205000)<sup>*</sup>
 
 ![image](https://github.com/QiZS-BIT/GSPR/blob/main/pics/motivation.png)
 
