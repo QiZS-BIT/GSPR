@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o point2voxel.cpython-37m-x86_64-linux-gnu.so CMakeFiles/point2voxel.dir/src/point2voxel.cpp.o 
