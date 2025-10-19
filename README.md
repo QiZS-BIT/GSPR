@@ -93,7 +93,7 @@ python gen_index.py
 ### Gaussian Scenes
 * Under the ``GSPR/data`` directory, create a folder named ``NuScenesGaussianDataset``. Then, within this folder, create three subfolders: ``BS``, ``SON``, and ``SQ``.
 * Run the ``/GSPR/datasets/lidar_dataset.py`` script to prepare training data for 3D-GS.
-* Download [our modified version of 3D-GS](), and configure it following the [official instructions](https://github.com/graphdeco-inria/gaussian-splatting).
+* Download [our modified version of 3D-GS](https://drive.google.com/file/d/12CbahZFRFB-2k6TjaHvY6mf6GCB5pBcl/view?usp=drive_link), and configure it following the [official instructions](https://github.com/graphdeco-inria/gaussian-splatting).
 * Copy file ``/GSPR/tools/train_batch.py`` to the 3D-GS project directory.
 * Under the ``/GSPR/data`` directory, create a folder named ``NuScenesGaussianModel``. Then, within this folder, create three subfolders: ``BS``, ``SON``, and ``SQ``.
 * Run the ``/GSPR/tools/train_batch.py`` script to generate Gaussian scenes for BS, SON, SQ splits, respectively.
@@ -133,7 +133,7 @@ python test.py
 You can switch between GSPR (better performance) and GSPR-L (faster inference speed) by commenting out line 39 in ``/GSPR/datasets/nuscenes_dataset.py``.
 
 ## Download
-* Our pre-trained weights are available at this [link]().
+* Our pre-trained weights are available at this [link](https://drive.google.com/file/d/1miLdMialVPAumkaQw7TPkBo_UkhWPdRm/view?usp=drive_link).
 
 ## Citation
 If you find this project useful for your research, please consider citing:
